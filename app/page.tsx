@@ -72,7 +72,7 @@ export default function Home() {
                     <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                         <div className="mb-16 text-center">
                             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl text-slate-50 mb-4">Uncover the Hidden Signals</h2>
-                            <p className="text-slate-400 max-w-2xl mx-auto">We connect your operational data to your actual revenue, giving you a board-ready view of what's driving your growth.</p>
+                            <p className="text-slate-400 max-w-2xl mx-auto">We connect your operational data to your actual revenue, giving you a board-ready view of what&apos;s driving your growth.</p>
                         </div>
 
                         <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
