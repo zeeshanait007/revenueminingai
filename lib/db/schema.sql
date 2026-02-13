@@ -1,4 +1,4 @@
--- RevenueMiner AI Database Schema
+-- ARRAlign Database Schema
 -- PostgreSQL/Supabase
 
 -- Enable UUID extension

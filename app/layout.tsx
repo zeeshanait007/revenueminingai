@@ -6,8 +6,8 @@ import { Providers } from '@/components/providers'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-    title: 'RevenueMiner AI - Revenue Intelligence Platform',
-    description: 'Transform scattered operational data into strategic revenue intelligence for B2B SaaS companies',
+    title: 'ARRAlign - Revenue Intelligence Platform',
+    description: 'ARRAlign is a revenue intelligence platform built for mid-market B2B SaaS companies that want to align product decisions directly with ARR growth.',
 }
 
 export default function RootLayout({

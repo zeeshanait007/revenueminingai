@@ -1,6 +1,6 @@
-# RevenueMiner AI
+# ARRAlign
 
-A production-ready revenue intelligence platform built for mid-market B2B SaaS companies. RevenueMiner transforms scattered operational data from Jira, Slack, and other tools into strategic revenue insights using AI-powered analysis.
+A production-ready revenue intelligence platform built for mid-market B2B SaaS companies. ARRAlign transforms scattered operational data from Jira, Slack, and other tools into strategic revenue insights using AI-powered analysis.
 
 ## 🚀 Features
 
@@ -38,7 +38,7 @@ A production-ready revenue intelligence platform built for mid-market B2B SaaS c
 
 1. **Clone the repository**
    ```bash
-   cd RevenueMinerAI
+   cd ARRAlign
    ```
 
 2. **Install dependencies**
@@ -92,7 +92,7 @@ A production-ready revenue intelligence platform built for mid-market B2B SaaS c
 ## 📊 How It Works
 
 ### 1. Data Ingestion
-RevenueMiner connects to your Jira and Slack instances to pull:
+ARRAlign connects to your Jira and Slack instances to pull:
 - Jira tickets (bugs, features, support requests)
 - Slack conversations (from support, feature-request, and feedback channels)
 
@@ -152,7 +152,7 @@ Leadership gets actionable insights:
 ## 🏗️ Project Structure
 
 ```
-RevenueMinerAI/
+ARRAlign/
 ├── app/
 │   ├── api/                    # API routes
 │   │   ├── analysis/          # Clustering & opportunities
@@ -199,8 +199,8 @@ RevenueMinerAI/
 ### Docker
 
 ```bash
-docker build -t revenueminer-ai .
-docker run -p 3000:3000 revenueminer-ai
+docker build -t arralign .
+docker run -p 3000:3000 arralign
 ```
 
 ## 📈 Roadmap
@@ -223,9 +223,9 @@ MIT License - see LICENSE file for details
 ## 🆘 Support
 
 For issues and questions:
-- GitHub Issues: [Report a bug](https://github.com/yourusername/revenueminer-ai/issues)
-- Documentation: [Full docs](https://docs.revenueminer.ai)
-- Email: support@revenueminer.ai
+- GitHub Issues: [Report a bug](https://github.com/yourusername/arralign/issues)
+- Documentation: [Full docs](https://docs.arralign.ai)
+- Email: support@arralign.ai
 
 ---
 
